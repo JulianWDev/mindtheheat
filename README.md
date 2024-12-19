@@ -1,6 +1,9 @@
 ![Mind the heat logo](/assets/images/logo.avif)
 # Mind the Heat
-> [!NOTE]
+> [!IMPORTANT]
+> This is part one of this project, the second part is the [dashboard](https://yifanyang21.github.io/mindtheheat/) to display the output, the code for that is also [available here](https://github.com/yifanyang21/mindtheheat).
+
+> [!TIP]
 > You can view the documentation in the [wiki](https://github.com/JulianWDev/mindtheheat/wiki) of this project.
 
 ### How can municipalities prioritise locations to address heat stress in managing public space?
