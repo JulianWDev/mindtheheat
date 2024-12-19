@@ -8,9 +8,9 @@ There is growing knowledge about the causes, consequences, and solutions for urb
 
 Our research takes an interdisciplinary approach, focusing on developing a decision support tool for prioritising locations for heat stress intervention, which utilises data-driven and knowledge-driven decision.
 
-Through conversations, interviews, and co-creation sessions with municipal employees, a decision support tool was conceptualized to address the complexities of urban heat stress in Amsterdam. ​Holistically analyzing heat stress through the 5 Ps—Planet, People, Prosperity, Partnership, and Peace—helps highlight which criteria should be prioritised. Building on these insights, the decision support tool combines data on heat, shade, and pedestrian flows.
+Through conversations, interviews, and co-creation sessions with municipal employees, a decision support tool was conceptualised to address the complexities of urban heat stress in Amsterdam. ​Holistically analysing heat stress through the 5 Ps—Planet, People, Prosperity, Partnership, and Peace—helps highlight which criteria should be prioritised. Building on these insights, the decision support tool combines data on heat, shade, and pedestrian flows.
 
 By integrating the three dimensions mentioned above, the heat stress risk at the street level can be calculated, thereby helping to identify the areas requiring the highest priority for intervention. This data output is presented through a tangible decision support tool.
 
 ### This repository
-The code for the data analysis required to generate this tool is made available in this repository. We have also written documentation for the steps required to run the code, where we also explain the decisions made and the consequent assumptions and limitations. You can view this documentation in the github 'docs' tab.
+The code for the data analysis required to generate this tool is made available in this repository. We have also written documentation for the steps required to run the code, where we also explain the decisions made and the consequent assumptions and limitations. You can view this documentation in the github 'wiki' tab.
