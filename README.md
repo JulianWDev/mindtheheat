@@ -1,5 +1,8 @@
 ![Mind the heat logo](/assets/images/logo.avif)
 # Mind the Heat
+> [!NOTE]
+> You can view the documentation in the [wiki](https://github.com/JulianWDev/mindtheheat/wiki) of this project.
+
 ### How can municipalities prioritise locations to address heat stress in managing public space?
 Global warming is intensifying the frequency and severity of heatwaves. Additionally, the urban heat island (UHI) effect also intensifies, which is driven by configuration of city, impermeable materials, and human activities. 
 
@@ -14,4 +17,4 @@ Through conversations, interviews, and co-creation sessions with municipal emplo
 By integrating the three dimensions mentioned above, the heat stress risk at the street level can be calculated, thereby helping to identify the areas requiring the highest priority for intervention. This data output is presented through a tangible decision support tool.
 
 ### This repository
-The code for the data analysis required to generate this tool is made available in this repository. We have also written documentation for the steps required to run the code, where we also explain the decisions made and the consequent assumptions and limitations. You can view this documentation in the github 'wiki' tab.
+The code for the data analysis required to generate this tool is made available in this repository. We have also written documentation for the steps required to run the code, where we also explain the decisions made and the consequent assumptions and limitations. 
