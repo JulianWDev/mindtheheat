@@ -1,5 +1,11 @@
 ![Mind the heat logo](/assets/images/logo.avif)
 # Mind the Heat
+> [!IMPORTANT]
+> This is part one of this project, the second part is the [dashboard](https://yifanyang21.github.io/mindtheheat/) to display the output, the code for that is also [available here](https://github.com/yifanyang21/mindtheheat).
+
+> [!TIP]
+> You can view the documentation in the [wiki](https://github.com/JulianWDev/mindtheheat/wiki) of this project.
+
 ### How can municipalities prioritise locations to address heat stress in managing public space?
 Global warming is intensifying the frequency and severity of heatwaves. Additionally, the urban heat island (UHI) effect also intensifies, which is driven by configuration of city, impermeable materials, and human activities. 
 
@@ -14,4 +20,21 @@ Through conversations, interviews, and co-creation sessions with municipal emplo
 By integrating the three dimensions mentioned above, the heat stress risk at the street level can be calculated, thereby helping to identify the areas requiring the highest priority for intervention. This data output is presented through a tangible decision support tool.
 
 ### This repository
-The code for the data analysis required to generate this tool is made available in this repository. We have also written documentation for the steps required to run the code, where we also explain the decisions made and the consequent assumptions and limitations. You can view this documentation in the github 'wiki' tab.
+The code for the data analysis required to generate this tool is made available in this repository. We have also written documentation for the steps required to run the code, where we also explain the decisions made and the consequent assumptions and limitations. 
+
+### Colophon
+Project members: 
+- [Carlotta Marie Henning](https://github.com/CarMaHen)
+- [Julian Fitzpatrick](https://github.com/JulianWDev)
+- [Layne Perry](https://github.com/layneperry)
+- [Max Olzheim](https://github.com/MaxOlzheim)
+- [Romane Sanchez](https://github.com/RomaneSanchez)
+- [Yifan Yang](https://github.com/yifanyang21)
+
+The code and outputs of this project are made available under the [European Union Public License v1.2](https://eupl.eu/).
+
+The authors declare that they have used generative artificial intelligence in the making of this project, in accordance with the [WUR guidelines for the responsible use of AI in academia](https://wur-studentsupport.screenstepslive.com/a/1700117). Tools used were: OpenAI ChatGPT, Anthropic Claude, and Github Copilot.
+
+This is a project of the [AMS Institute](https://www.ams-institute.org/), [MIT Senseable City Lab](https://senseable.mit.edu/), [Wageningen University & Research](https://www.wur.nl), and the [TU Delft](https://www.tudelft.nl).
+
+<img src="https://www.ams-institute.org/documents/97/AMS_LogoRED1.png" width="200" />
