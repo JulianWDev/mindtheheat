@@ -9,7 +9,7 @@
 ### How can municipalities prioritise locations to address heat stress in managing public space?
 Global warming is intensifying the frequency and severity of heatwaves. Additionally, the urban heat island (UHI) effect also intensifies, which is driven by configuration of city, impermeable materials, and human activities. 
 
-There is growing knowledge about the causes, consequences, and solutions for urban heat stress. In response, there are emerging municipal heat plans in the Netherlands, such as the Amsterdam Hitteplan (GGD Amsterdam, 2024) and the Utrecht Heat Plan (Gemeente Utrecht, 2022), which aim to translate research into actionable design strategies. However, there is still a gap between research and policymaking and challenge in interpreting raw data.
+There is growing knowledge about the causes, consequences, and solutions for urban heat stress. In response, there are emerging municipal heat plans in the Netherlands, such as the Amsterdam Hitteplan (GGD Amsterdam, 2024) and the Utrecht Heat Plan (Municipality of  Utrecht, 2022), which aim to translate research into actionable design strategies. However, there is still a gap between research and policymaking and challenge in interpreting raw data.
 
 ​After experiencing record-breaking temperatures of 40°C in 2019, Amsterdam became more aware of heat-related health risks and introduced policies and strategies to address heat stress. However, the city still struggles to translate these policies into data-driven decisions due to a lack of reliable heat stress data, neighborhood-level demographics, and building-specific health insights. 
 
